@@ -1,0 +1,2 @@
+org.springframework.boot.env.PropertySourceLoader=\
+cn.com.kun.springcloud.config.sourceloader.CustomPropertySourceLoader
